@@ -1,7 +1,7 @@
-# Netflix 4 Change 
+# Netflix Vegan 
 
-### Clone da streaming #Netflix, somente com séries, filmes e documentários sobre veganismo, meio ambiente e mudanças climaticas :seedling:
+## Clone da Netflix com séries, filmes e documentários sobre veganismo, meio ambiente e mudanças climaticas :seedling:
 
-## Desafio 2 Recriando a Interface do Netflix da Digital Innovation One :desktop_computer: 
+<img src="https://github.com/tayhsn/netflix_vegan/blob/main/demo.gif" />
 
-####Utilizando: HTML, CSS, JavaScript. Plugin: OwlCarossel2
+### HTML, CSS, JavaScript + OwlCarossel2
